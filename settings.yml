@@ -1,0 +1,13 @@
+filepaths:
+  cklfolder: 
+  csvfolder: 
+  datafolder: 
+  hashtable: 
+  updated: 
+setup:
+  folders:
+    ckl: CKL
+    csv: CSV
+    data: Data
+    updates: UpdatedCKLs
+  hasrun: true
